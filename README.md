@@ -1,6 +1,6 @@
 <div align="center">
 	
-![](https://typograssy.deno.dev/api?text=あなたは神にとって最も完璧な武器です。!&l0=none&l1=216e39&l4=a3f0b0&bg=none&frame=none&speed=100&comment=)
+![](https://typograssy.deno.dev/api?text=I'm_JFLEX-OG。!&l0=none&l1=216e39&l4=a3f0b0&bg=none&frame=none&speed=100&comment=)
 
 </div>
 <a href="https://www.instagram.com/das_abae/">
